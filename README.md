@@ -9,8 +9,7 @@ Além de vasta experiência em administração e gerenciamento de empresas.
 
 ---
 <br/>
-
-<img src="https://i.imgur.com/8MXusVC.png" width="30px" height="30px" /> &nbsp; Tecnologias || Bibliotecas || Frameworks
+<img src="https://i.imgur.com/8MXusVC.png" width="24px" height="24px" /> &nbsp; Tecnologias || Bibliotecas || Frameworks
 
 Html, Css, Javascript, Typescript, React, React Native, Angular, Flutter
 
