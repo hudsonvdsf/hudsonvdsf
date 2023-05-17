@@ -7,7 +7,7 @@ Além de vasta experiência em administração e gerenciamento de empresas.
 
 ---
 
-📘 
+📘 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px" height="30px" />
 
 
 Here are some ideas to get you started:
