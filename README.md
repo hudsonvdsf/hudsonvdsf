@@ -4,9 +4,8 @@ Desenvolvedor Web Front-End - Javascript | Typescript
 
 ---
 
-Profissional comprometido e responsável com conhecimento em programação front-end, web, (UI / UX), API's e aplicações
-mobile. Vasta experiência em administração e gerenciamento de empresas. Último projeto presente desde o planejamento
-até a implementação, ampliando a busca por uma oportunidade de aplicar as habilidades integrando uma grande equipe.
+Profissional comprometido e responsável com conhecimento em programação web front-end, UI / UX, API's e aplicações mobile.
+Além de vasta experiência em administração e gerenciamento de empresas.
 
 ---
 
