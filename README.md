@@ -47,3 +47,4 @@ Html, Css, Javascript, Typescript, React, React Native, Vue, Angular, Node, Flut
 <a href="mailto:hudsonvdsf@gmail.com">
   <img src="https://camo.githubusercontent.com/68d8e4b616908242d3398d2840eeab92241b7e75a98fffa5bdbe26db99796926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d3030373844343f6c6f676f3d6d6963726f736f66746f75746c6f6f6b266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="email badge sample" data-canonical-src="https://img.shields.io/badge/email-0078D4?logo=microsoftoutlook&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">  
 </a>
+<=== clique para entrar em contato!
