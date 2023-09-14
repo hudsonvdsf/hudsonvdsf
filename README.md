@@ -24,8 +24,8 @@ Html, Css, Javascript, Typescript, React, React Native, Vue, Angular, Node, Flut
 <br />
 
 ✨ Habilidades ✨
-inglês badge sample organização badge sample trabalho em equipe badge sample
-git badge sample github badge sample html5 badge sample css3 badge sample python badge sample javascript badge sample
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 📫 Onde me encontrar:
 email badge sample linkedin badge sample instagram badge sample 
